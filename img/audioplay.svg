@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-encore-id="icon" role="img" aria-hidden="true"
+     viewBox="0 0 24 24" width="50" height="50" class="Svg-sc-ytk21e-0 iYxpxA">
+  <!-- Background circle -->
+  <circle cx="12" cy="12" r="12" fill="rgb(30, 215, 96)" />
+  
+  <!-- Play triangle -->
+  <polygon points="9,6.5 9,17.5 17,12" fill="#000000" />
+</svg>
